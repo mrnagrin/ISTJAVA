@@ -90,11 +90,11 @@ public class Question
              
             if (entered.compareTo(quizQuest[number].answer)==0)
             { 
-                System.out.println("Correct Answer"); 
+                System.out.println("Correct Answer \n"); 
                 correct = correct + 1;
             }
             else 
-                System.out.println("Incorrect Answer");  
+                System.out.println("Incorrect Answer \n");  
         }  
 
 }
