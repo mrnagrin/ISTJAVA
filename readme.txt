@@ -1,4 +1,4 @@
-README for IST JAVA
+README
 
 This is the IST 311 Project Quiz Random Maker
 
